@@ -1,0 +1,22 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+broadcast/
+
+.devenv/
+.direnv/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.envrc
+lib/
+
+flake.nix
+flake.lock
+
+.pre-commit-config.yaml
